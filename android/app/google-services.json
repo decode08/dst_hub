@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502387366192",
+    "project_id": "dst-hub",
+    "storage_bucket": "dst-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502387366192:android:6f2b42655cedc0f4d290f5",
+        "android_client_info": {
+          "package_name": "com.example.dst_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnlxUM9Jd9MiyD7e3_B5ra6Y-VUMDpuOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
